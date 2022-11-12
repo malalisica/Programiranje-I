@@ -32,7 +32,7 @@ int brojCifri(int broj) {
 
 void unos(int niz[][y]) {
 	int temp;
-	cout << "Molim vas unesite 25 elemenata niza : " << endl;
+	cout << "Unesite 25 elemenata niza : " << endl;
 	for (int i = 0; i < x; i++)
 	{
 		for (int j = 0; j < y; j++)
